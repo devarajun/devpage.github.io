@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Devaraju Narayanappa"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Climate Scientist"
+  location         : "Paris, France"
+  employer         : "CEA Saclay"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OpXtI3IAAAAJ&hl=en"
-  email            :
+  email            : "devaraju.narayanappa@lsce.ipsl.fr" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
