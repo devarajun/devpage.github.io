@@ -12,12 +12,13 @@ Vegetation-Atmosphere Interactions. Carbon-Nitrogen Cycle Interactions. Earth Sy
 
 Education
 ======
-* Ph.D., Applied Mathematics, Bangalore University, India                                       2010
-    # Thesis title: *Mathematical modeling of dispersion of atmospheric aerosols*
+* Ph.D., Applied Mathematics, Bangalore University, India **2005-2010**
 
-* Master of Science in Mathematics,Bangalore University, India                                  2005
+  Thesis title: *Mathematical modeling of dispersion of atmospheric aerosols*
+
+* Master of Science in Mathematics,Bangalore University, India **2003-2005** 
  
-* Bachelor of Science (Physics, Mathematics, Electronics),Bangalore University, India           2003
+* Bachelor of Science (Physics, Mathematics, Electronics),Bangalore University, India **2000-2003**
  
 Experience
 ======
