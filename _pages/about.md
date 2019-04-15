@@ -13,7 +13,7 @@ Vegetation-Atmosphere Interactions. Carbon-Nitrogen Cycle Interactions. Earth Sy
 Education
 ======
 * Ph.D., Applied Mathematics, Bangalore University, India                                       2010
-    Thesis title: *Mathematical modeling of dispersion of atmospheric aerosols*
+    # Thesis title: *Mathematical modeling of dispersion of atmospheric aerosols*
 
 * Master of Science in Mathematics,Bangalore University, India                                  2005
  
