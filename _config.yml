@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://devarajun.github.io/devpage.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "devarajun/devpage.github.io"
-teaser                   : "images/Photo_Dev.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Devaraju Narayanappa"
-  avatar           : "images/Photo_Dev.jpg"
+  avatar           : "Photo_Dev.jpg"
   bio              : "Climate Scientist"
-  location         : "Paris, France"
-  employer         : "CEA Saclay"
+  location         : "CEA Saclay, Paris Area, France"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OpXtI3IAAAAJ&hl=en"
   email            : "devaraju.narayanappa@lsce.ipsl.fr" 
