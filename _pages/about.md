@@ -14,10 +14,15 @@ Vegetation-Atmosphere Interactions. Carbon-Nitrogen Cycle Interactions. Earth Sy
 Experience
 ======
 * Research Scientist **May 2015 - present**
+
   LSCE, CEA Saclay, France.
+  
   *Research related to ecosystem-climate interactions modeling,performing climate model simulations, technical coupling of  land & atmosphere models, contributing to project report, and peer-review paper publication.*
+  
 * Project Scientist **November 2012 - April 2015**, Post Doctoral Fellow **January 2010 - October 2012**
+
 Indian Institute of Science, Bengalore, India.
+
   *Research related to ecosystem-climate interactions modeling,porting global climate models on super computers, performing climate model simulations, and peer-review paper publication.*
 
    
