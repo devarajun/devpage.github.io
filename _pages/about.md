@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-**Vegetation-Atmosphere Interactions, Carbon-Nitrogen Cycle Interactions, Earth System Modelling**
+Vegetation-Atmosphere Interactions. Carbon-Nitrogen Cycle Interactions. Earth System Modelling. Mathematical Modeling.
 
 Education
 ======
--Ph.D (Applied Mathematics, 2005- 2010), Bangalore University, India. 
-  Topic: Mathematical modeling of dispersion of atmospheric aerosols
+* Ph.D., Applied Mathematics, Bangalore University, India                                       2010
+    Thesis title: *Mathematical modeling of dispersion of atmospheric aerosols*
 
--Master of Science in Mathematics [2003 – 05], Bangalore University, India. 
+* Master of Science in Mathematics,Bangalore University, India                                  2005
  
--Bachelor of Science (Physics, Mathematics, Electronics) [2000 - 03] Bangalore University, India. 
+* Bachelor of Science (Physics, Mathematics, Electronics),Bangalore University, India           2003
  
-Getting started
+Experience
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
